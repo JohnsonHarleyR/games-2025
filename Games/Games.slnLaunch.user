@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Games.Server\\Games.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "games.client\\games.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
